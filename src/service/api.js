@@ -3,7 +3,7 @@ import axios from 'axios';
 import { API_NOTIFICATION_MESSAGES, SERVICE_URL} from '../constants/config';
 import { getAccessToken, getType } from '../utils/common-utils';
 
-const API_URL = 'https://blog-app-3574.onrender.com';
+const API_URL = 'https://blog-app-server-hazel.vercel.app/';
 
 
 
